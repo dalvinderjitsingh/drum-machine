@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.38f2982d.css",
+    "main.js": "/drum-machine/static/js/main.572b7513.js",
+    "static/media/Cymatics - Master Collection Vol 2 Crash 1.wav": "/drum-machine/static/media/Cymatics - Master Collection Vol 2 Crash 1.da14e5cac057db726f14.wav",
+    "static/media/Cymatics - Terror Bass E 043.wav": "/drum-machine/static/media/Cymatics - Terror Bass E 043.b38892a9c28e83df9e73.wav",
+    "static/media/Cymatics - Raptor Bass One Shot 15 - D.wav": "/drum-machine/static/media/Cymatics - Raptor Bass One Shot 15 - D.94a07f772a872ae1ff27.wav",
+    "static/media/Cymatics - Titan Synth One Shot 71 - G.wav": "/drum-machine/static/media/Cymatics - Titan Synth One Shot 71 - G.5052ecce0afda738e0d5.wav",
+    "static/media/Cymatics - Bass One Shot 51 - F.wav": "/drum-machine/static/media/Cymatics - Bass One Shot 51 - F.7b124e98321c8d71465a.wav",
+    "static/media/Cymatics - Bass One Shot 60 - G.wav": "/drum-machine/static/media/Cymatics - Bass One Shot 60 - G.899fb2c3d045dfbe3e3c.wav",
+    "static/media/Cymatics - Dubstep Growl 1 - D.wav": "/drum-machine/static/media/Cymatics - Dubstep Growl 1 - D.1484b72428a55b0b37e3.wav",
+    "static/media/Cymatics - Dubstep Growl 5 - F.wav": "/drum-machine/static/media/Cymatics - Dubstep Growl 5 - F.e3fc3df0ac6f2b01c191.wav",
+    "static/media/Cymatics - Titan Synth One Shot 17 - D.wav": "/drum-machine/static/media/Cymatics - Titan Synth One Shot 17 - D.b976ab7b14eaab5d2524.wav",
+    "static/media/Cymatics - Terror Tom 002.wav": "/drum-machine/static/media/Cymatics - Terror Tom 002.50e138a1da499e268ef2.wav",
+    "static/media/Cymatics - Dubstep Clap 1.wav": "/drum-machine/static/media/Cymatics - Dubstep Clap 1.d823f39eb68a7708aa44.wav",
+    "static/media/Cymatics - Ultimate Snare 36 - G.wav": "/drum-machine/static/media/Cymatics - Ultimate Snare 36 - G.66dcbe73507afc54befa.wav",
+    "static/media/Cymatics - Terror Tom 018.wav": "/drum-machine/static/media/Cymatics - Terror Tom 018.3e2d264534fea9038f0c.wav",
+    "static/media/Cymatics - Master Collection Open Hihat 2.wav": "/drum-machine/static/media/Cymatics - Master Collection Open Hihat 2.5ccc91481da18ab30d71.wav",
+    "static/media/Cymatics - Dubstep Kick 2 - C.wav": "/drum-machine/static/media/Cymatics - Dubstep Kick 2 - C.9125904b4804f4a6667f.wav",
+    "static/media/Cymatics - Master Collection Vol 2 Closed Hihat 1.wav": "/drum-machine/static/media/Cymatics - Master Collection Vol 2 Closed Hihat 1.e3b8caba97c2964521d5.wav",
+    "index.html": "/drum-machine/index.html",
+    "main.38f2982d.css.map": "/drum-machine/static/css/main.38f2982d.css.map",
+    "main.572b7513.js.map": "/drum-machine/static/js/main.572b7513.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38f2982d.css",
+    "static/js/main.572b7513.js"
+  ]
+}
